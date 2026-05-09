@@ -25,7 +25,7 @@ cd Final-Project-Color-Palette-Picker
 
 2. Run the application:
 ```bash
-python main.py
+python -m src.main
 ```
 
 ## Requirements
