@@ -52,7 +52,6 @@ python main.py
 Final-Project-Color-Palette-Picker/
 ├── main.py              # Main GUI application
 ├── color_utils.py       # Color theory math and conversions
-├── test_features.py     # Feature tests
 ├── README.md            # This file
 ├── proposal.md          # Project proposal
 └── requirements.txt     # Dependencies
