@@ -2,6 +2,10 @@
 
 A Python-based color palette picker that lets users generate, explore, and export color palettes for use in digital art and media projects. It helps solve the common challenge of choosing visually pleasing color schemes by offering palette-generation tools for digital artists.
 
+## URL
+- Youtube explanation Video https://youtu.be/d5MVURD5mMo
+- Github repository https://github.com/tonovz1/Final-Project-Color-Palette-Picker.git
+
 ## Features
 
 - Generate color palettes from a base color
