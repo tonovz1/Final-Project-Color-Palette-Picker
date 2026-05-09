@@ -8,7 +8,7 @@ from tkinter import ttk, messagebox, filedialog
 import json
 import os
 from datetime import datetime
-from color_utils import (
+from src.color_utils import (
     hex_to_rgb, rgb_to_hex, is_valid_hex,
     get_harmony_rules, generate_random_palette
 )
