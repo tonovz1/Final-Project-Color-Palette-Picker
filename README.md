@@ -55,7 +55,6 @@ Final-Project-Color-Palette-Picker/
 ├── proposal.md          # Project proposal
 ├── requirements.txt     # Dependencies
 └── src/
-    ├── __init__.py
     ├── color_utils.py   # Color theory math and conversions
     └── project.py       # Main project implementation
 ```
