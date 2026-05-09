@@ -1,8 +1,1 @@
-# Color Palette Picker Requirements
-# No external packages required - uses only Python standard library
 
-# - tkinter (included with Python)
-# - colorsys (standard library)
-# - json (standard library)
-# - os (standard library)
-# - datetime (standard library)

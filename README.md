@@ -50,7 +50,9 @@ python main.py
 
 ```
 Final-Project-Color-Palette-Picker/
-├── main.py              # Main GUI application
+├── main.py              # Launcher for the app
+├── src/
+│   └── project.py       # Main project implementation
 ├── color_utils.py       # Color theory math and conversions
 ├── README.md            # This file
 ├── proposal.md          # Project proposal
